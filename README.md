@@ -1,4 +1,4 @@
-# Pesquisa e Organização
+# Pesquisa e Ordenação
 
 ### Conteúdo: 
 Organização Indexada em Árvore B+ (B+-Tree):
