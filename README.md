@@ -10,9 +10,13 @@
 
 ### Data de apresentação dos conteúdos: **03/12/25**.
 
-## COMPOSIÇÃO DA NOTA DO TRABALHO (grupal e individual):
+## Composição da nota (grupal e individual):
 [2,0] Parte teórica sobre os conteúdos a serem apresentados;
+
 [2,0] Exemplos práticos sobre os conteúdos (MÍNIMO 3);
+
 [2,0] Apresentação e questionamento individual do participante;
+
 [1,0] Recursos visuais utilizados;
+
 [1,0] Presença nos dias de apresentações
